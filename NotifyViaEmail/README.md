@@ -9,6 +9,6 @@ A set of python scripts that uses CoWIN Open APIs to notify when appointment is 
   - `pip3 install -r requirements.txt`
   - `python-pip3 install -r requirements.txt`
   - `pip install -r requirements.txt`
-- Edit [AllEmailData.json](https://github.com/Lakshmikittur/CoWINSlotNotifier/blob/main/NotifyViaEmail/AllEmailData.json) file using district id from [StatesDistricts.json](https://github.com/Lakshmikittur/CoWINSlotNotifier/blob/main/NotifyViaEmail/StatesDistricts.json)
+- Edit [AllEmailData.json](AllEmailData.json) file using district id from [StatesDistricts.json](StatesDistricts.json)
 - Run *FindSlotsAndEmail.py* one time using `python FindSlotsAndEmail.py` OR `python3 FindSlotsAndEmail.py`
 - To run *FindSlotsAndEmail.py* every 10 seconds, execute *Scheduler.py* using `python Scheduler.py` OR `python3 Scheduler.py`
