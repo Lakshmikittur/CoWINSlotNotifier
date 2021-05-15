@@ -1,0 +1,30 @@
+[
+    {
+        "district": "bbmp",
+        "emails": [
+            {
+                "email": "someone@somewhere.com",
+                "name": "someone"
+            }
+        ],
+        "id": 294,
+        "LastSentTime": "",
+        "CentersNotified": []
+    },
+    {
+        "district": "burban",
+        "emails": [
+            {
+                "email": "example@example.com",
+                "name": "example"
+            },
+            {
+                "email": "better@better.com",
+                "name": "better"
+            }
+        ],
+        "id": 265,
+        "LastSentTime": "",
+        "CentersNotified": []
+    }
+]
