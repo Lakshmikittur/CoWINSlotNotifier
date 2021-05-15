@@ -5,7 +5,7 @@ A set of python scripts that uses CoWIN Open APIs to notify when appointment is 
 
 #### Steps
 - Install Python version 3 if not already installed. See this for instructions: [Install Python3](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/)
-- Create account for sending eails on Send In Blue and follow this step to get API keys: [See this for details](https://developers.sendinblue.com/docs/send-a-transactional-email).
+- Create account for sending emails on Send In Blue and follow this step to get API keys: [See this for details](https://developers.sendinblue.com/docs/send-a-transactional-email).
 - Replace `configuration.api_key['api-key']` with your API key in the scipt.
 - Depending on your operating system, install requirements using either of following commands: 
   - `pip3 install -r requirements.txt`
